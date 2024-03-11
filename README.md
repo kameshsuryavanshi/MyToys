@@ -57,7 +57,6 @@ We welcome contributions from developers interested in enhancing MyToys. Please 
 
 ## License
 
-This project is licensed under the (LICENSE.md).
 
 ---
 
