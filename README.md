@@ -57,8 +57,8 @@ We welcome contributions from developers interested in enhancing MyToys. Please 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the (LICENSE.md).
 
 ---
 
-For any inquiries or feedback, please contact us at [contact@mytoys.com](mailto:kameshsuryavanshi78@gmail.com.com). Thank you for choosing MyToys for all your toy needs! 🚀🎉
+For any inquiries or feedback, please contact us at [kameshsuryavanshi78@gmail.com.](mailto:kameshsuryavanshi78@gmail.com). Thank you for choosing MyToys for all your toy needs! 🚀🎉
