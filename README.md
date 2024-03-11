@@ -30,6 +30,18 @@ According to market research, the Indian toys market reached a valuation of US$ 
 - **Image Management**: Cloudinary integrated for seamless image handling.
 - **Testing**: Manual testing ensures reliability and quality assurance.
 
+## Project Video
+
+[![MyToys App Demo](https://img.youtube.com/vi/4BV-xlPyc7I/0.jpg)](https://www.youtube.com/watch?v=4BV-xlPyc7I)
+
+Click the image above to watch a demo of the MyToys app on YouTube.
+
+## Research Paper
+
+To delve deeper into the development and functionalities of MyToys, you can refer to our research paper:
+
+[MyToys Mobile Application Research Paper](https://ijsrem.com/download/mytoys-mobile-application/)
+
 ## Revenue Model
 
 - **Per-Order Charges**: Revenue generated from charging shopkeepers per order.
